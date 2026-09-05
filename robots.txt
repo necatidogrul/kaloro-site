@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://necatidogrul.github.io/kaloro-site/sitemap.xml
