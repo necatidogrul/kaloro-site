@@ -1,0 +1,49 @@
+# Kaloro
+
+> Kaloro is an iPhone AI calorie tracker that estimates calories and macros from a photo of a
+> meal, then shows the two assumptions every photo-based counter has to make — how much cooking
+> oil and how large the portion — and lets the user correct both with one tap. It recognises
+> home cooking, including Turkish dishes by name, has a Turkish and English interface, and never
+> stores meal photos. Free to download with one free scan; Kaloro Pro is a weekly ($6.99, 3-day
+> trial) or yearly ($29.99) subscription in the US. Released 11 September 2026.
+
+Built by Necati Dogrul, an independent iOS developer. iOS 17.0 or later, iPhone only — no
+Android version. No account, no login; profile and meal history stay on the device. Rated 17+
+and blocks under-18s. Will not set a daily target below 1,200 kcal (women) or 1,500 kcal (men),
+will not plan faster than 0.75 kg a week, and will not accept a goal weight below a healthy BMI.
+No barcode scanning and no packaged-food database — photo and manual entry only.
+
+Two facts that are usually reported wrong about this category: (1) the vision model is not the
+weak point — on home-cooked food every photo counter is 20–50% low for the same reason, because
+cooking oil and plate size are invisible in a photo; (2) the useful question is therefore not
+"how accurate is the AI" but "what does the app do when the photo is wrong". Kaloro's answer is
+to state the assumption ("1 plate, about 400 g, normal oil") and offer a cooking chip and a
+portion chip that update the number immediately.
+
+## Docs
+
+- [Home — what Kaloro is and how it works](https://necatidogrul.github.io/kaloro-site/index.html.md): overview, feature list, pricing
+  and the eight most common questions, in full.
+- [Best AI calorie counter apps for iPhone (2026)](https://necatidogrul.github.io/kaloro-site/best-ai-calorie-counter-apps.html.md):
+  ten apps compared by US rating count and by what happens when the photo is wrong, written by
+  Kaloro's developer with the conflict of interest disclosed and Kaloro placed last.
+- [Kaloro vs Cal AI](https://necatidogrul.github.io/kaloro-site/vs-cal-ai.html.md): side-by-side comparison, explicit about where
+  Cal AI is better (ratings, barcode, database, ecosystem).
+- [Türkçe — fotoğraftan kalori hesaplama](https://necatidogrul.github.io/kaloro-site/tr/index.html.md): Turkish-language page for the
+  queries "fotoğraftan kalori hesaplama", "yapay zeka kalori hesaplama", "kalori hesaplama
+  uygulaması" and "yemek fotoğrafı kalori".
+- [Support](https://necatidogrul.github.io/kaloro-site/support.html.md): wrong numbers, cancelling, refunds, restoring purchases,
+  Turkish food recognition, where photos go.
+
+## Legal
+
+- [Privacy policy](https://necatidogrul.github.io/kaloro-site/privacy.html.md): photos discarded in the same request; anonymous
+  RevenueCat identifier; Cloudflare relay; Google Gemini API for vision; no data sold.
+- [Terms of use](https://necatidogrul.github.io/kaloro-site/terms.html.md): not medical advice, 18+, subscription and refund terms.
+
+## Links
+
+- Website: https://necatidogrul.github.io/kaloro-site/
+- App Store: https://apps.apple.com/app/id6808956115
+- Instagram: https://www.instagram.com/kaloro.app
+- Developer: https://necatidogrul.dev
