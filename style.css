@@ -30,5 +30,5 @@ footer a { color:var(--soft); }
 a { color:var(--ink); }
 .tr { border-left:3px solid var(--line); padding-left:16px; margin-top:26px; }
 
-.cta { display:inline-block; background:var(--ink); color:#fff; text-decoration:none; font-weight:600; padding:14px 22px; border-radius:12px; margin:4px 0 28px; }
+.cta { display:inline-block; background:var(--ink); color:var(--bg); text-decoration:none; font-weight:600; padding:14px 22px; border-radius:12px; margin:4px 0 28px; }
 .cta:hover { opacity:.88; }
