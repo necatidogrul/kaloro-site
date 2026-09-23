@@ -20,7 +20,7 @@ knows Turkish food.
 | Home cooking / Turkish dishes | Recognised by name; Turkish interface | Generic recognition; no Turkish interface |
 | Onboarding | Short profile setup; paywall can be closed | Long questionnaire ending at the paywall |
 | Yearly price (US) | $29.99 | Varies by offer; check in the app |
-| Free trial | 3 days on the weekly plan; one free scan without subscribing | Offered via onboarding; terms vary |
+| Free trial | 7 days on the weekly plan; one free scan without subscribing | Offered via onboarding; terms vary |
 | Photo storage | Never stored; discarded in the same request | See Cal AI's privacy policy |
 | Minimum iOS | iOS 17 | iOS 18 |
 | Guardrails | No target below 1,200/1,500 kcal, no faster than 0.75 kg/week, 18+ only | Not stated in the listing |

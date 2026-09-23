@@ -9,13 +9,13 @@
 - App Store: https://apps.apple.com/app/id6808956115
 - Platform: iOS 17.0 or later, iPhone only · interface in English and Turkish
 - Developer: Necati Dogrul — https://necatidogrul.dev
-- Released: 11 September 2026 · Last updated: 12 September 2026
+- Released: 11 September 2026 · Last updated: 24 September 2026
 
 ## In numbers
 
 - 2 correction chips on every result: cooking oil (light / normal / generous) and portion (small / normal / large)
 - A photo alone is typically 20–50% low on home-cooked food, because oil and plate size are invisible to it
-- 1 free scan, then $6.99/week (3-day free trial) or $29.99/year in the US
+- 1 free scan, then a weekly (7-day free trial) or yearly Kaloro Pro subscription
 - 0 meal photos stored: analysed and discarded in the same request
 - Floors the app will not go below: 1,200 kcal/day (women), 1,500 kcal/day (men), 0.75 kg/week, healthy BMI
 
@@ -41,8 +41,9 @@ login — data stays on the device.
 
 ## Pricing
 
-Free to download with one free scan. Kaloro Pro: $6.99 per week with a 3-day free trial, or
-$29.99 per year (United States). Prices vary by country and are shown in the app before purchase.
+Free to download with one free scan. Kaloro Pro is offered weekly or yearly; the weekly plan
+begins with a 7-day free trial and the yearly plan has no introductory offer. Prices vary by
+country and are shown in the app and on the App Store product page before purchase.
 
 ## Frequently asked
 
@@ -52,7 +53,7 @@ $29.99 per year (United States). Prices vary by country and are shown in the app
 
 **Does it recognise Turkish food?** Yes. Mercimek çorbası, kuru fasulye, menemen, mantı, lahmacun, pide and karnıyarık are recognised by name, not as generic "lentil soup" or "beans". The app interface is available in Turkish and English.
 
-**Is Kaloro free?** Kaloro is free to download and includes one free scan. Unlimited scanning, corrections, history and the weekly report require Kaloro Pro: $6.99 per week (with a 3-day free trial) or $29.99 per year in the United States. Prices vary by country and are shown in the app before purchase.
+**Is Kaloro free?** Kaloro is free to download and includes one free scan. Unlimited scanning, corrections, history and the weekly report require Kaloro Pro, offered weekly (with a 7-day free trial) or yearly. Prices vary by country and are shown in the app and on the App Store product page before purchase.
 
 **Where do my meal photos go?** A photo is sent for analysis and discarded in the same request. It is never written to a database, a file store or a log, and it is not used for training. Meal history stays on your phone.
 

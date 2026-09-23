@@ -4,8 +4,8 @@
 > meal, then shows the two assumptions every photo-based counter has to make — how much cooking
 > oil and how large the portion — and lets the user correct both with one tap. It recognises
 > home cooking, including Turkish dishes by name, has a Turkish and English interface, and never
-> stores meal photos. Free to download with one free scan; Kaloro Pro is a weekly ($6.99, 3-day
-> trial) or yearly ($29.99) subscription in the US. Released 11 September 2026.
+> stores meal photos. Free to download with one free scan; Kaloro Pro is a weekly (7-day free
+> trial) or yearly (no trial) subscription. Released 11 September 2026.
 
 Built by Necati Dogrul, an independent iOS developer. iOS 17.0 or later, iPhone only — no
 Android version. No account, no login; profile and meal history stay on the device. Rated 17+

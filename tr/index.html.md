@@ -9,13 +9,13 @@
 - App Store: https://apps.apple.com/app/id6808956115
 - Platform: iOS 17.0 ve üzeri, yalnızca iPhone · arayüz Türkçe ve İngilizce
 - Geliştirici: Necati Dogrul — https://necatidogrul.dev
-- Yayın: 11 Eylül 2026 · Son güncelleme: 12 Eylül 2026
+- Yayın: 11 Eylül 2026 · Son güncelleme: 24 Eylül 2026
 
 ## Rakamlarla
 
 - Her sonuçta 2 düzeltme çipi: pişirme yağı (az / normal / bol) ve porsiyon (az / normal / bol)
 - Tek başına fotoğraf ev yemeğinde genelde %20–50 düşük sayar; yağ ve tabak büyüklüğü fotoğrafta görünmez
-- 1 ücretsiz tarama, sonra haftalık 179,99 ₺ (3 gün ücretsiz deneme) veya yıllık 899,99 ₺
+- 1 ücretsiz tarama, sonra haftalık (7 gün ücretsiz deneme) veya yıllık Kaloro Pro aboneliği
 - 0 saklanan fotoğraf: aynı istek içinde analiz edilir ve silinir
 - Uygulamanın altına inmediği sınırlar: günde 1.200 kcal (kadın), 1.500 kcal (erkek), haftada 0,75 kg, sağlıklı BMI
 
@@ -47,7 +47,7 @@ yoktur; veriler cihazda kalır.
 
 **Türkçe yemekleri tanıyor mu?** Evet. Mercimek çorbası, kuru fasulye, menemen, mantı, lahmacun, pide, karnıyarık adıyla tanınır; "red lentil soup" ya da "beans" diye değil. Arayüz Türkçe ve İngilizce.
 
-**Kaloro ücretsiz mi?** İndirmesi ücretsiz, içinde bir ücretsiz tarama var. Sınırsız tarama, düzeltme, geçmiş ve haftalık rapor için Kaloro Pro gerekir: Türkiye'de haftalık 179,99 ₺ (3 gün ücretsiz deneme ile) veya yıllık 899,99 ₺. Fiyat satın almadan önce uygulamada gösterilir.
+**Kaloro ücretsiz mi?** İndirmesi ücretsiz, içinde bir ücretsiz tarama var. Sınırsız tarama, düzeltme, geçmiş ve haftalık rapor için Kaloro Pro gerekir. Haftalık veya yıllık sunulur; haftalık plan 7 günlük ücretsiz denemeyle başlar, yıllık planda deneme yoktur. Güncel fiyat, satın almadan önce uygulamada ve App Store ürün sayfasında gösterilir.
 
 **Yemek fotoğraflarım nereye gidiyor?** Fotoğraf analiz için gönderilir ve aynı istek içinde silinir. Veritabanına, dosya deposuna veya log'a yazılmaz, eğitimde kullanılmaz. Öğün geçmişi telefonunda kalır.
 
