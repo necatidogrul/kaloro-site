@@ -9,7 +9,7 @@
 - App Store: https://apps.apple.com/app/id6808956115
 - Platform: iOS 17.0 ve üzeri, yalnızca iPhone · arayüz Türkçe ve İngilizce
 - Geliştirici: Necati Dogrul — https://necatidogrul.dev
-- Yayın: 11 Eylül 2026 · Son güncelleme: 24 Eylül 2026
+- Yayın: 11 Eylül 2026 · Son güncelleme: 28 Eylül 2026
 
 ## Rakamlarla
 
@@ -31,7 +31,8 @@ kontrol edersin.
 Fotoğraftan kalori ve makro tahmini · pişirme yağı çipi · porsiyon çipi · boy, kilo, yaş ve
 harekete göre günlük kalori ve makro hedefi · bugün ne kaldığını gösteren halka · Tekrarla (dünkü
 öğünü tek dokunuşla yeniden ekle) · haftalık rapor (ortalama, en yoğun gün, en çok yenen) · ana
-ekran widget'ı · elle giriş · Türkçe ev yemeği tanıma (mercimek çorbası, kuru fasulye, menemen,
+ekran widget'ı · fotoğraf çek ya da galeriden seç · yakında yemek yoksa yağ ve porsiyon
+düzeltmesini örnek tabakla deneme · Türkçe ev yemeği tanıma (mercimek çorbası, kuru fasulye, menemen,
 mantı, lahmacun, pide, karnıyarık).
 
 ## Ne yapmaz
@@ -47,11 +48,11 @@ yoktur; veriler cihazda kalır.
 
 **Türkçe yemekleri tanıyor mu?** Evet. Mercimek çorbası, kuru fasulye, menemen, mantı, lahmacun, pide, karnıyarık adıyla tanınır; "red lentil soup" ya da "beans" diye değil. Arayüz Türkçe ve İngilizce.
 
-**Kaloro ücretsiz mi?** İndirmesi ücretsiz, içinde bir ücretsiz tarama var. Sınırsız tarama, düzeltme, geçmiş ve haftalık rapor için Kaloro Pro gerekir. Haftalık veya yıllık sunulur; haftalık plan 7 günlük ücretsiz denemeyle başlar, yıllık planda deneme yoktur. Güncel fiyat, satın almadan önce uygulamada ve App Store ürün sayfasında gösterilir.
+**Kaloro ücretsiz mi?** İndirmesi ücretsiz, içinde bir ücretsiz tarama var. Sınırsız tarama, düzeltme, geçmiş ve haftalık rapor için Kaloro Pro gerekir. Haftalık veya yıllık sunulur; haftalık plan 7 günlük ücretsiz denemeyle başlar, yıllık planda deneme yoktur. Denemeyi başlatmadan önce ödeme ekranı süreci bir zaman çizelgesiyle gösterir: bugün, bitmeden önce hatırlatma, sonra ilk ücret. Güncel fiyat, satın almadan önce uygulamada ve App Store ürün sayfasında gösterilir.
 
 **Yemek fotoğraflarım nereye gidiyor?** Fotoğraf analiz için gönderilir ve aynı istek içinde silinir. Veritabanına, dosya deposuna veya log'a yazılmaz, eğitimde kullanılmaz. Öğün geçmişi telefonunda kalır.
 
-**Barkod okuma veya besin veritabanı var mı?** Yok. Kaloro fotoğraf ve elle giriş üzerine kurulu. Çoğunlukla barkodlu paketli ürün yiyorsan Yazio veya MyFitnessPal sana daha uygun.
+**Barkod okuma veya besin veritabanı var mı?** Yok. Kaloro fotoğraf üzerine kurulu: fotoğraf çekersin ya da galeriden seçersin. Çoğunlukla barkodlu paketli ürün yiyorsan Yazio veya MyFitnessPal sana daha uygun.
 
 **Kimin için?** Evde yemek yapan ve kesin görünen değil güvenilir bir sayı isteyen yetişkinler (18+). Kaloro kadınlarda 1.200, erkeklerde 1.500 kcal altına hedef koymaz; haftada 0,75 kg'dan hızlı plan yapmaz; sağlıklı BMI altına hedef kilo kabul etmez.
 

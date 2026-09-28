@@ -15,11 +15,11 @@ knows Turkish food.
 | | Kaloro | Cal AI |
 |---|---|---|
 | US App Store ratings (12 September 2026) | New (released 11 Sep 2026), few ratings | 362,744 · 4.8★ |
-| Input methods | Photo, manual entry | Photo, barcode, text description, food database |
+| Input methods | Photo (camera or photo library) | Photo, barcode, text description, food database |
 | When the photo is wrong | Shows assumed oil and portion; two chips to fix them | Edit the detected ingredient list |
 | Home cooking / Turkish dishes | Recognised by name; Turkish interface | Generic recognition; no Turkish interface |
 | Onboarding | Short profile setup; paywall can be closed | Long questionnaire ending at the paywall |
-| Yearly price (US) | $29.99 | Varies by offer; check in the app |
+| Yearly price | Varies by country; shown in the app before you buy | Varies by offer; check in the app |
 | Free trial | 7 days on the weekly plan; one free scan without subscribing | Offered via onboarding; terms vary |
 | Photo storage | Never stored; discarded in the same request | See Cal AI's privacy policy |
 | Minimum iOS | iOS 17 | iOS 18 |
@@ -28,7 +28,7 @@ knows Turkish food.
 ## Where Cal AI is genuinely better
 
 - Scale and track record: hundreds of thousands of ratings against a brand-new app.
-- Input breadth: barcode scanning, text description and a food database. Kaloro is photo and manual entry only.
+- Input breadth: barcode scanning, text description and a food database. Kaloro works from a photo only, taken or picked from the library.
 - Ecosystem: a large creator community, referral codes, constant content.
 
 ## Where Kaloro is better

@@ -11,7 +11,7 @@ Built by Necati Dogrul, an independent iOS developer. iOS 17.0 or later, iPhone 
 Android version. No account, no login; profile and meal history stay on the device. Rated 17+
 and blocks under-18s. Will not set a daily target below 1,200 kcal (women) or 1,500 kcal (men),
 will not plan faster than 0.75 kg a week, and will not accept a goal weight below a healthy BMI.
-No barcode scanning and no packaged-food database — photo and manual entry only.
+No barcode scanning and no packaged-food database — input is a meal photo, taken with the camera or picked from the photo library.
 
 Two facts that are usually reported wrong about this category: (1) the vision model is not the
 weak point — on home-cooked food every photo counter is 20–50% low for the same reason, because

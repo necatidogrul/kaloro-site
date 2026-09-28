@@ -9,7 +9,7 @@
 - App Store: https://apps.apple.com/app/id6808956115
 - Platform: iOS 17.0 or later, iPhone only · interface in English and Turkish
 - Developer: Necati Dogrul — https://necatidogrul.dev
-- Released: 11 September 2026 · Last updated: 24 September 2026
+- Released: 11 September 2026 · Last updated: 28 September 2026
 
 ## In numbers
 
@@ -31,7 +31,8 @@ orange so you check them rather than trust them.
 Photo calorie and macro estimate · cooking-oil chip · portion chip · daily calorie and macro
 targets from height, weight, age and activity · home screen ring with what is left today · Repeat
 (log yesterday's meal again in one tap) · weekly report (average, heaviest day, most-eaten foods)
-· home screen widget · manual entry · Turkish home-cooking recognition (mercimek çorbası, kuru
+· home screen widget · photo from the camera or the photo library · a sample plate to try
+the oil and portion correction when there is no meal nearby · Turkish home-cooking recognition (mercimek çorbası, kuru
 fasulye, menemen, mantı, lahmacun, pide, karnıyarık).
 
 ## What it does not do
@@ -42,7 +43,7 @@ login — data stays on the device.
 ## Pricing
 
 Free to download with one free scan. Kaloro Pro is offered weekly or yearly; the weekly plan
-begins with a 7-day free trial and the yearly plan has no introductory offer. Prices vary by
+begins with a 7-day free trial and the yearly plan has no introductory offer. Before you start it, the paywall lays the trial out as a timeline: today, a reminder before it ends, then the first charge. Prices vary by
 country and are shown in the app and on the App Store product page before purchase.
 
 ## Frequently asked
@@ -57,7 +58,7 @@ country and are shown in the app and on the App Store product page before purcha
 
 **Where do my meal photos go?** A photo is sent for analysis and discarded in the same request. It is never written to a database, a file store or a log, and it is not used for training. Meal history stays on your phone.
 
-**Does Kaloro have barcode scanning or a food database?** No. Kaloro is built around the photo and manual entry. If you eat mostly packaged food with barcodes, MyFitnessPal or Yazio will suit you better.
+**Does Kaloro have barcode scanning or a food database?** No. Kaloro is built around the photo: you take one or pick one from your library. If you eat mostly packaged food with barcodes, MyFitnessPal or Yazio will suit you better.
 
 **Who is Kaloro for?** Adults (18+) who cook at home and want a number they can trust rather than a number that looks precise. Kaloro will not set a target below 1,200 kcal for women or 1,500 kcal for men, will not plan faster than 0.75 kg a week, and will not accept a goal weight below a healthy BMI.
 
